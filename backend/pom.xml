@@ -56,9 +56,11 @@
             <artifactId>flyway-core</artifactId>
         </dependency>
         
+        <!-- Flyway PostgreSQL Support (required for Spring Boot 3.x) -->
         <dependency>
             <groupId>org.flywaydb</groupId>
             <artifactId>flyway-database-postgresql</artifactId>
+            <version>10.4.1</version>
         </dependency>
         
         <!-- Swagger/OpenAPI -->
