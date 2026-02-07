@@ -1,6 +1,6 @@
-package com.algowiki.repository;
+package com.cshub.repository;
 
-import com.algowiki.entity.Tag;
+import com.cshub.entity.Tag;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

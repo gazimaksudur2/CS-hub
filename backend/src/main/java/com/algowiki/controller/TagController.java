@@ -1,7 +1,7 @@
-package com.algowiki.controller;
+package com.cshub.controller;
 
-import com.algowiki.dto.TagDTO;
-import com.algowiki.service.TagService;
+import com.cshub.dto.TagDTO;
+import com.cshub.service.TagService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.tags.Tag;

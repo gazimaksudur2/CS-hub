@@ -1,4 +1,4 @@
-package com.algowiki.dto;
+package com.cshub.dto;
 
 /**
  * DTO for Tag responses.

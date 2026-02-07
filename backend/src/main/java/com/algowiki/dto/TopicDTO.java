@@ -1,4 +1,4 @@
-package com.algowiki.dto;
+package com.cshub.dto;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

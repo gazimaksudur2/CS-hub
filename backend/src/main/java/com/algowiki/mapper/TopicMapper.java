@@ -1,9 +1,9 @@
-package com.algowiki.mapper;
+package com.cshub.mapper;
 
-import com.algowiki.dto.TagDTO;
-import com.algowiki.dto.TopicDTO;
-import com.algowiki.entity.Tag;
-import com.algowiki.entity.Topic;
+import com.cshub.dto.TagDTO;
+import com.cshub.dto.TopicDTO;
+import com.cshub.entity.Tag;
+import com.cshub.entity.Topic;
 import org.springframework.stereotype.Component;
 
 import java.util.stream.Collectors;

@@ -1,8 +1,8 @@
 {
-  "name": "algowiki-frontend",
+  "name": "cshub-frontend",
   "version": "1.0.0",
   "type": "module",
-  "description": "Frontend for AlgoWiki - Documentation platform for CS concepts",
+  "description": "Frontend for CSHub - Documentation platform for CS concepts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

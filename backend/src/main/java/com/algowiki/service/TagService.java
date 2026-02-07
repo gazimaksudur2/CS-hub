@@ -1,11 +1,11 @@
-package com.algowiki.service;
+package com.cshub.service;
 
-import com.algowiki.dto.TagDTO;
-import com.algowiki.entity.Tag;
-import com.algowiki.exception.DuplicateResourceException;
-import com.algowiki.exception.ResourceNotFoundException;
-import com.algowiki.mapper.TopicMapper;
-import com.algowiki.repository.TagRepository;
+import com.cshub.dto.TagDTO;
+import com.cshub.entity.Tag;
+import com.cshub.exception.DuplicateResourceException;
+import com.cshub.exception.ResourceNotFoundException;
+import com.cshub.mapper.TopicMapper;
+import com.cshub.repository.TagRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

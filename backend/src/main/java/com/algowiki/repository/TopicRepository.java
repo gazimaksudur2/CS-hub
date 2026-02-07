@@ -1,6 +1,6 @@
-package com.algowiki.repository;
+package com.cshub.repository;
 
-import com.algowiki.entity.Topic;
+import com.cshub.entity.Topic;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

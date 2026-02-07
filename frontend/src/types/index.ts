@@ -1,5 +1,5 @@
 /**
- * Type definitions for AlgoWiki application.
+ * Type definitions for CSHub application.
  * Demonstrates: TypeScript strict typing for type safety.
  */
 

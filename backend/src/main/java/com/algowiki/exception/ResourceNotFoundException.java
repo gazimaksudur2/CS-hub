@@ -1,4 +1,4 @@
-package com.algowiki.exception;
+package com.cshub.exception;
 
 /**
  * Custom exception for when a resource is not found.

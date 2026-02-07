@@ -1,6 +1,6 @@
-package com.algowiki.exception;
+package com.cshub.exception;
 
-import com.algowiki.dto.ErrorResponse;
+import com.cshub.dto.ErrorResponse;
 import jakarta.servlet.http.HttpServletRequest;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

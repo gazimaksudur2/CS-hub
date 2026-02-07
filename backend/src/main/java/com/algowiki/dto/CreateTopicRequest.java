@@ -1,4 +1,4 @@
-package com.algowiki.dto;
+package com.cshub.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import java.util.List;

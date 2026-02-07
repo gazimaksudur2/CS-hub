@@ -39,7 +39,7 @@ export const Sidebar: React.FC = () => {
           {/* Header */}
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-              AlgoWiki
+              CSHub
             </h2>
             <button
               onClick={toggleSidebar}

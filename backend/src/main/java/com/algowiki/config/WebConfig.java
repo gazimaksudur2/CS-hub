@@ -1,4 +1,4 @@
-package com.algowiki.config;
+package com.cshub.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

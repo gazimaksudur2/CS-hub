@@ -1,8 +1,8 @@
-package com.algowiki.controller;
+package com.cshub.controller;
 
-import com.algowiki.dto.CreateTopicRequest;
-import com.algowiki.dto.TopicDTO;
-import com.algowiki.service.TopicService;
+import com.cshub.dto.CreateTopicRequest;
+import com.cshub.dto.TopicDTO;
+import com.cshub.service.TopicService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.tags.Tag;

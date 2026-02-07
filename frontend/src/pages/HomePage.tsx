@@ -35,7 +35,7 @@ export const HomePage: React.FC = () => {
       {/* Hero Section */}
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-bold text-gray-900 dark:text-gray-100">
-          Welcome to AlgoWiki
+          Welcome to CSHub
         </h1>
         <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
           Your comprehensive guide to Computer Science fundamentals.
@@ -69,7 +69,7 @@ export const HomePage: React.FC = () => {
       <section className="bg-gradient-to-r from-primary-50 to-blue-50 dark:from-gray-800 dark:to-gray-900 
                         rounded-lg p-8 space-y-4">
         <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-6">
-          Why AlgoWiki?
+          Why CSHub?
         </h2>
         <div className="grid md:grid-cols-2 gap-4">
           <div className="flex items-start gap-3">

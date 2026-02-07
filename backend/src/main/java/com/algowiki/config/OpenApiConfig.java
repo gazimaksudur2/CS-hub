@@ -1,4 +1,4 @@
-package com.algowiki.config;
+package com.cshub.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;
@@ -25,23 +25,23 @@ public class OpenApiConfig {
     private String serverPort;
 
     @Bean
-    public OpenAPI algoWikiOpenAPI() {
+    public OpenAPI csHubOpenAPI() {
         Server localServer = new Server();
         localServer.setUrl("http://localhost:" + serverPort);
         localServer.setDescription("Local Development Server");
 
         Contact contact = new Contact();
-        contact.setName("AlgoWiki");
-        contact.setEmail("contact@algowiki.com");
+        contact.setName("CSHub");
+        contact.setEmail("contact@cshub.com");
 
         License license = new License()
                 .name("MIT License")
                 .url("https://opensource.org/licenses/MIT");
 
         Info info = new Info()
-                .title("AlgoWiki API")
+                .title("CSHub API")
                 .version("1.0.0")
-                .description("REST API for AlgoWiki - A documentation platform for Computer Science concepts")
+                .description("REST API for CSHub - A documentation platform for Computer Science concepts")
                 .contact(contact)
                 .license(license);
 

@@ -1,4 +1,4 @@
-package com.algowiki.entity;
+package com.cshub.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

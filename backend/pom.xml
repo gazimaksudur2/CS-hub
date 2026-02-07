@@ -12,10 +12,10 @@
         <relativePath/>
     </parent>
     
-    <groupId>com.algowiki</groupId>
-    <artifactId>algowiki-backend</artifactId>
+    <groupId>com.cshub</groupId>
+    <artifactId>cshub-backend</artifactId>
     <version>1.0.0</version>
-    <name>AlgoWiki Backend</name>
+    <name>CSHub Backend</name>
     <description>Documentation platform for CS concepts</description>
     
     <properties>

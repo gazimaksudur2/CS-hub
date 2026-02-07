@@ -1,12 +1,12 @@
-package com.algowiki.service;
+package com.cshub.service;
 
-import com.algowiki.dto.TopicDTO;
-import com.algowiki.entity.Tag;
-import com.algowiki.entity.Topic;
-import com.algowiki.exception.ResourceNotFoundException;
-import com.algowiki.mapper.TopicMapper;
-import com.algowiki.repository.TagRepository;
-import com.algowiki.repository.TopicRepository;
+import com.cshub.dto.TopicDTO;
+import com.cshub.entity.Tag;
+import com.cshub.entity.Topic;
+import com.cshub.exception.ResourceNotFoundException;
+import com.cshub.mapper.TopicMapper;
+import com.cshub.repository.TagRepository;
+import com.cshub.repository.TopicRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
